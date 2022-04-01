@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-#WEBSITE DEPLOYED
+# WEBSITE DEPLOYED
 https://cryptoappjimo.netlify.app
 ## Available Scripts
 
